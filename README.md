@@ -1,2 +1,4 @@
+This repo is currently in devlopment
+
 # chess
-simple chess game made in java
+Just a simple CLI  chess game made in java
